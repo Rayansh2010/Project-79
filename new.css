@@ -1,0 +1,12 @@
+body{
+	background-image: url("images/Bg.jpg");
+	text-align: center;
+}
+
+#random {
+	color: white;
+}
+
+#nameofpizza {
+	width: 1000px;
+}
